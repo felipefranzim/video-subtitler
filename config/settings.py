@@ -11,7 +11,7 @@ class Settings:
     TEMP_DIR: str = "temp"
     
     # Configurações de legenda
-    FONT_SIZE_TOP: int = 16  # Português (superior)
+    FONT_SIZE_TOP: int = 14  # Português (superior)
     FONT_SIZE_BOTTOM: int = 20  # Inglês (inferior)
     FONT_COLOR_TOP: str = "yellow"
     FONT_COLOR_BOTTOM: str = "white"
