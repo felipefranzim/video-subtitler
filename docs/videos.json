@@ -1,0 +1,9 @@
+{
+  "videos": [
+    {
+      "title": "Tedtalk 01",
+      "url": "../output/tedtalk_01_subtitled.mp4",
+      "description": "Vídeo com legendas em inglês e português"
+    }
+  ]
+}

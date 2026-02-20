@@ -1,0 +1,290 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Video Subtitler - Galeria</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, sans-serif;
+            background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%);
+            min-height: 100vh;
+            color: #fff;
+        }
+
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 2rem;
+        }
+
+        header {
+            text-align: center;
+            margin-bottom: 3rem;
+        }
+
+        header h1 {
+            font-size: 2.5rem;
+            margin-bottom: 0.5rem;
+            background: linear-gradient(90deg, #00d2ff, #3a7bd5);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            background-clip: text;
+        }
+
+        header p {
+            color: #8892b0;
+            font-size: 1.1rem;
+        }
+
+        .video-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+            gap: 1.5rem;
+            margin-bottom: 2rem;
+        }
+
+        .video-card {
+            background: rgba(255, 255, 255, 0.05);
+            border-radius: 12px;
+            overflow: hidden;
+            cursor: pointer;
+            transition: transform 0.3s ease, box-shadow 0.3s ease;
+            border: 1px solid rgba(255, 255, 255, 0.1);
+        }
+
+        .video-card:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 10px 40px rgba(0, 210, 255, 0.2);
+            border-color: rgba(0, 210, 255, 0.3);
+        }
+
+        .video-card.active {
+            border-color: #00d2ff;
+            box-shadow: 0 0 20px rgba(0, 210, 255, 0.3);
+        }
+
+        .video-thumbnail {
+            width: 100%;
+            height: 180px;
+            background: rgba(0, 0, 0, 0.3);
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            position: relative;
+        }
+
+        .video-thumbnail::before {
+            content: '▶';
+            font-size: 3rem;
+            color: rgba(255, 255, 255, 0.3);
+        }
+
+        .video-info {
+            padding: 1rem;
+        }
+
+        .video-info h3 {
+            font-size: 1rem;
+            margin-bottom: 0.5rem;
+            color: #fff;
+            word-break: break-word;
+        }
+
+        .video-info span {
+            font-size: 0.85rem;
+            color: #8892b0;
+        }
+
+        .player-section {
+            background: rgba(0, 0, 0, 0.3);
+            border-radius: 12px;
+            padding: 1.5rem;
+            margin-bottom: 2rem;
+            display: none;
+        }
+
+        .player-section.visible {
+            display: block;
+        }
+
+        .player-section h2 {
+            margin-bottom: 1rem;
+            font-size: 1.3rem;
+            color: #00d2ff;
+        }
+
+        video {
+            width: 100%;
+            max-height: 70vh;
+            border-radius: 8px;
+            background: #000;
+        }
+
+        .no-videos {
+            text-align: center;
+            padding: 4rem 2rem;
+            color: #8892b0;
+        }
+
+        .no-videos h2 {
+            color: #fff;
+            margin-bottom: 1rem;
+        }
+
+        .loading {
+            text-align: center;
+            padding: 4rem;
+            color: #8892b0;
+        }
+
+        .close-player {
+            background: rgba(255, 255, 255, 0.1);
+            border: none;
+            color: #fff;
+            padding: 0.5rem 1rem;
+            border-radius: 6px;
+            cursor: pointer;
+            float: right;
+            transition: background 0.3s;
+        }
+
+        .close-player:hover {
+            background: rgba(255, 255, 255, 0.2);
+        }
+
+        footer {
+            text-align: center;
+            padding: 2rem;
+            color: #8892b0;
+            font-size: 0.9rem;
+        }
+
+        footer a {
+            color: #00d2ff;
+            text-decoration: none;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>🎬 Video Subtitler</h1>
+            <p>Vídeos com legendas em inglês e português</p>
+        </header>
+
+        <section class="player-section" id="playerSection">
+            <button class="close-player" onclick="closePlayer()">✕ Fechar</button>
+            <h2 id="playerTitle">Reproduzindo...</h2>
+            <video id="videoPlayer" controls>
+                <source id="videoSource" src="" type="video/mp4">
+                Seu navegador não suporta o elemento de vídeo.
+            </video>
+        </section>
+
+        <section id="videoList" class="loading">
+            <p>Carregando vídeos...</p>
+        </section>
+
+        <footer>
+            <p>Criado com <a href="https://github.com" target="_blank">Video Subtitler</a></p>
+        </footer>
+    </div>
+
+    <script>
+        const videoListEl = document.getElementById('videoList');
+        const playerSection = document.getElementById('playerSection');
+        const videoPlayer = document.getElementById('videoPlayer');
+        const videoSource = document.getElementById('videoSource');
+        const playerTitle = document.getElementById('playerTitle');
+
+        let currentCard = null;
+
+        // Carrega a lista de vídeos do JSON
+        async function loadVideos() {
+            try {
+                const response = await fetch('videos.json');
+                if (!response.ok) throw new Error('Arquivo não encontrado');
+                
+                const data = await response.json();
+                renderVideos(data.videos);
+            } catch (error) {
+                console.error('Erro ao carregar vídeos:', error);
+                videoListEl.innerHTML = `
+                    <div class="no-videos">
+                        <h2>Nenhum vídeo encontrado</h2>
+                        <p>Adicione vídeos ao arquivo <code>videos.json</code></p>
+                    </div>
+                `;
+            }
+        }
+
+        function renderVideos(videos) {
+            if (!videos || videos.length === 0) {
+                videoListEl.innerHTML = `
+                    <div class="no-videos">
+                        <h2>Nenhum vídeo disponível</h2>
+                        <p>Os vídeos processados aparecerão aqui.</p>
+                    </div>
+                `;
+                return;
+            }
+
+            videoListEl.className = 'video-grid';
+            videoListEl.innerHTML = videos.map((video, index) => `
+                <div class="video-card" onclick="playVideo('${video.url}', '${video.title}', this)">
+                    <div class="video-thumbnail"></div>
+                    <div class="video-info">
+                        <h3>${video.title}</h3>
+                        <span>${video.description || 'Vídeo com legendas PT/EN'}</span>
+                    </div>
+                </div>
+            `).join('');
+        }
+
+        function playVideo(url, title, cardElement) {
+            // Remove active de outros cards
+            if (currentCard) {
+                currentCard.classList.remove('active');
+            }
+            
+            // Marca o card atual
+            cardElement.classList.add('active');
+            currentCard = cardElement;
+
+            // Configura o player
+            videoSource.src = url;
+            playerTitle.textContent = title;
+            videoPlayer.load();
+            
+            // Mostra o player e rola até ele
+            playerSection.classList.add('visible');
+            playerSection.scrollIntoView({ behavior: 'smooth' });
+            
+            // Inicia reprodução
+            videoPlayer.play().catch(() => {
+                // Autoplay pode ser bloqueado pelo navegador
+            });
+        }
+
+        function closePlayer() {
+            playerSection.classList.remove('visible');
+            videoPlayer.pause();
+            
+            if (currentCard) {
+                currentCard.classList.remove('active');
+                currentCard = null;
+            }
+        }
+
+        // Carrega vídeos ao iniciar
+        loadVideos();
+    </script>
+</body>
+</html>
