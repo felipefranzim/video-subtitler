@@ -7,11 +7,7 @@ def update_video_list():
     """Atualiza o arquivo videos.json com os vídeos da pasta output."""
     
     output_dir = "output"
-    docs_dir = "docs"
-    json_path = os.path.join(docs_dir, "videos.json")
-    
-    # Garante que a pasta docs existe
-    os.makedirs(docs_dir, exist_ok=True)
+    json_path = os.path.join(output_dir, "videos.json")
     
     # Lista vídeos MP4 na pasta output
     videos = []
@@ -24,7 +20,7 @@ def update_video_list():
                 
                 videos.append({
                     "title": title,
-                    "url": f"../output/{filename}",
+                    "url": filename,
                     "description": "Vídeo com legendas em inglês e português"
                 })
     
