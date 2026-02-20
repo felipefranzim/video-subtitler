@@ -50,3 +50,9 @@ cp .env.example .env
 # 3. Executar
 python main.py input/seu_video.mp4
 ```
+
+## Gerar thumbnail de vídeos já processados
+
+```
+python -c "from src.video_renderer import generate_thumbnail; generate_thumbnail('output/seu_video.mp4', 'output/seu_video.jpg')"
+```

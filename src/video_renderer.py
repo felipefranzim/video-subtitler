@@ -18,6 +18,40 @@ def escape_ffmpeg_path(path: str) -> str:
     escaped = escaped.replace(":", "\\:")
     return escaped
 
+def generate_thumbnail(video_path: str, output_path: str, time_seconds: int = 30) -> str:
+    """
+    Gera uma thumbnail do vídeo.
+    
+    Args:
+        video_path: Caminho do vídeo
+        output_path: Caminho de saída da thumbnail (jpg)
+        time_seconds: Momento do vídeo para capturar (padrão: 5s)
+        
+    Returns:
+        Caminho da thumbnail gerada
+    """
+    cmd = [
+        settings.FFMPEG_PATH,
+        "-i", video_path,
+        "-ss", str(time_seconds),
+        "-vframes", "1",
+        "-q:v", "2",  # Qualidade (2 = alta, menor arquivo)
+        "-y",
+        output_path
+    ]
+    
+    result = subprocess.run(cmd, capture_output=True, text=True)
+    
+    if result.returncode != 0:
+        # Se falhar no tempo especificado, tenta no início
+        cmd[4] = "0"
+        result = subprocess.run(cmd, capture_output=True, text=True)
+        
+        if result.returncode != 0:
+            raise RuntimeError(f"FFmpeg thumbnail error: {result.stderr}")
+    
+    return output_path
+
 def render_subtitles(
     video_path: str,
     srt_en_path: str,

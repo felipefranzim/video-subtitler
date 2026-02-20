@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Video Subtitler - Galeria</title>
+    <title>AI Video Subtitler - Galeria</title>
     <style>
         * {
             margin: 0;
@@ -78,9 +78,33 @@
             align-items: center;
             justify-content: center;
             position: relative;
+            overflow: hidden;
         }
 
-        .video-thumbnail::before {
+        .video-thumbnail img {
+            width: 100%;
+            height: 100%;
+            object-fit: cover;
+            transition: transform 0.3s ease;
+        }
+
+        .video-card:hover .video-thumbnail img {
+            transform: scale(1.05);
+        }
+
+        .video-thumbnail .play-icon {
+            position: absolute;
+            font-size: 3rem;
+            color: rgba(255, 255, 255, 0.8);
+            text-shadow: 0 2px 10px rgba(0, 0, 0, 0.5);
+            transition: transform 0.3s ease;
+        }
+
+        .video-card:hover .play-icon {
+            transform: scale(1.2);
+        }
+
+        .video-thumbnail.no-thumb::before {
             content: '▶';
             font-size: 3rem;
             color: rgba(255, 255, 255, 0.3);
@@ -193,7 +217,7 @@
         </section>
 
         <footer>
-            <p>Criado com <a href="https://github.com" target="_blank">Video Subtitler</a></p>
+            <p>Criado por <a href="https://github.com/felipefranzim" target="_blank">Felipe Franzim</a></p>
         </footer>
     </div>
 
@@ -237,15 +261,22 @@
             }
 
             videoListEl.className = 'video-grid';
-            videoListEl.innerHTML = videos.map((video, index) => `
-                <div class="video-card" onclick="playVideo('${video.url}', '${video.title}', this)">
-                    <div class="video-thumbnail"></div>
-                    <div class="video-info">
-                        <h3>${video.title}</h3>
-                        <span>${video.description || 'Vídeo com legendas PT/EN'}</span>
+            videoListEl.innerHTML = videos.map((video, index) => {
+                const thumbnailContent = video.thumbnail 
+                    ? `<img src="${video.thumbnail}" alt="${video.title}"><span class="play-icon">▶</span>`
+                    : '';
+                const thumbClass = video.thumbnail ? '' : 'no-thumb';
+                
+                return `
+                    <div class="video-card" onclick="playVideo('${video.url}', '${video.title}', this)">
+                        <div class="video-thumbnail ${thumbClass}">${thumbnailContent}</div>
+                        <div class="video-info">
+                            <h3>${video.title}</h3>
+                            <span>${video.description || 'Vídeo com legendas PT/EN'}</span>
+                        </div>
                     </div>
-                </div>
-            `).join('');
+                `;
+            }).join('');
         }
 
         function playVideo(url, title, cardElement) {

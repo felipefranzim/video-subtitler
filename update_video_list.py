@@ -18,9 +18,14 @@ def update_video_list():
                 # Remove sufixo _subtitled para o título
                 title = filename.replace('_subtitled.mp4', '').replace('_', ' ').title()
                 
+                # Verifica se existe thumbnail correspondente
+                thumbnail_name = filename.replace('.mp4', '.jpg')
+                thumbnail = thumbnail_name if os.path.exists(os.path.join(output_dir, thumbnail_name)) else None
+                
                 videos.append({
                     "title": title,
                     "url": filename,
+                    "thumbnail": thumbnail,
                     "description": "Vídeo com legendas em inglês e português"
                 })
     
@@ -33,7 +38,8 @@ def update_video_list():
     print(f"✅ Atualizado {json_path} com {len(videos)} vídeo(s)")
     
     for v in videos:
-        print(f"   └── {v['title']}")
+        thumb_status = "✓" if v.get("thumbnail") else "✗"
+        print(f"   └── {v['title']} (thumbnail: {thumb_status})")
 
 if __name__ == "__main__":
     update_video_list()
