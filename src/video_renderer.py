@@ -86,7 +86,8 @@ def render_subtitles(
         f"BorderStyle=3,"
         f"Outline=2,"
         f"Shadow=1,"
-        f"MarginV=5"  # Posição superior
+        f",Alignment=2," # Inferior, centralizado horizontalmente
+        f"MarginV=60"  # Posição superior
     )
     
     style_en = (
@@ -96,6 +97,7 @@ def render_subtitles(
         f"BorderStyle=3,"
         f"Outline=2,"
         f"Shadow=1,"
+        f",Alignment=2," # Inferior, centralizado horizontalmente
         f"MarginV=20"  # Posição inferior (padrão)
     )
     
@@ -103,8 +105,8 @@ def render_subtitles(
     # A primeira legenda (português) é posicionada no topo
     # A segunda legenda (inglês) fica na posição padrão (embaixo)
     filter_complex = (
-        f"subtitles='{srt_pt_escaped}':force_style='{style_pt},Alignment=6',"
-        f"subtitles='{srt_en_escaped}':force_style='{style_en},Alignment=2'"
+        f"subtitles='{srt_pt_escaped}':force_style='{style_pt}',"
+        f"subtitles='{srt_en_escaped}':force_style='{style_en}'"
     )
     
     cmd = [

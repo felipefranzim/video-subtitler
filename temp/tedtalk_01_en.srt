@@ -239,11 +239,11 @@ But what about the thought that I'm worthless?
 That I don't belong here?
 
 61
-00:04:23,519 --> 00:04:27,679
+00:04:23,519 --> 00:04:27,640
 That the mistakes I've made are unforgivable?
 
 62
-00:04:27,679 --> 00:04:32,079
+00:04:27,640 --> 00:04:32,079
 That the bad things that happened in my life were my fault?
 
 63
@@ -443,12 +443,12 @@ She was a very unpleasant woman, if I'm honest, feeding French fries to an infan
 at me that she would never have her children vaccinated.
 
 112
-00:07:56,739 --> 00:08:01,019
+00:07:56,739 --> 00:08:01,059
 Not even to protect them from polio, because she didn't know it was in those shots.
 
 113
-00:08:01,019 --> 00:08:07,339
-Now, never mind that she said this an inch of ash deep into a Virginia Slim, right?
+00:08:01,059 --> 00:08:07,339
+Now, never mind that she said this an inch of ash deep into a Virginia slim, right?
 
 114
 00:08:07,339 --> 00:08:08,420
@@ -463,15 +463,15 @@ I know.
 I'm not proud of it.
 
 117
-00:08:10,899 --> 00:08:14,260
+00:08:10,899 --> 00:08:17,859
 But at least one of me is a jerk.
 
 118
-00:08:14,260 --> 00:08:21,339
-So I needed to connect with her, and I didn't want to.
+00:08:17,859 --> 00:08:21,299
+I needed to connect with her, and I didn't want to.
 
 119
-00:08:21,339 --> 00:08:22,579
+00:08:21,299 --> 00:08:22,579
 I didn't like her.
 
 120
@@ -479,358 +479,330 @@ I didn't like her.
 I didn't respect her.
 
 121
-00:08:24,220 --> 00:08:27,100
+00:08:24,220 --> 00:08:27,079
 I didn't want to spend a single moment with her.
 
 122
-00:08:27,100 --> 00:08:32,219
+00:08:27,079 --> 00:08:32,179
 And the project required that I spend hours, and that I use that time to get to know her,
 
 123
-00:08:32,219 --> 00:08:37,260
+00:08:32,179 --> 00:08:37,219
 what she values, what she believes, where she finds strength.
 
 124
-00:08:37,260 --> 00:08:40,979
-Researcher neutrality was unavailable to me at the time.
+00:08:37,219 --> 00:08:42,460
+Picture neutrality was unavailable to me at the time, so I had to get out the big guns.
 
 125
-00:08:40,979 --> 00:08:42,500
-So I had to get out the big guns.
-
-126
-00:08:42,500 --> 00:08:48,500
+00:08:42,460 --> 00:08:48,340
 I called up my new age visualization skills, and I took a deep breath, secondhand smoke
 
-127
-00:08:48,500 --> 00:08:54,460
-and all, and I imagine that my breath was inflating a shiny soap bubble filled with
+126
+00:08:48,340 --> 00:08:54,419
+and all, and I imagined that my breath was inflating a shiny soap bubble filled with
 
-128
-00:08:54,460 --> 00:08:57,020
+127
+00:08:54,419 --> 00:08:56,979
 unconditional welcome.
 
+128
+00:08:56,979 --> 00:09:02,099
+Not tolerance, not even compassion.
+
 129
-00:08:57,020 --> 00:08:59,179
-Not tolerance.
-
-130
-00:08:59,179 --> 00:09:02,140
-Not even compassion.
-
-131
-00:09:02,140 --> 00:09:03,580
+00:09:02,099 --> 00:09:03,539
 Total welcome, as is.
 
-132
-00:09:03,580 --> 00:09:05,059
+130
+00:09:03,539 --> 00:09:05,020
 No comments, no notes.
 
-133
-00:09:05,059 --> 00:09:10,219
+131
+00:09:05,020 --> 00:09:10,179
 And as I inflated the bubble, it became big enough to contain my whole body.
 
-134
-00:09:10,219 --> 00:09:12,820
+132
+00:09:10,179 --> 00:09:12,780
 And then hers.
 
-135
-00:09:12,820 --> 00:09:21,780
+133
+00:09:12,780 --> 00:09:21,739
 And in that moment, I saw a mother feeding her baby in a world that she didn't trust.
 
-136
-00:09:21,780 --> 00:09:26,380
+134
+00:09:21,739 --> 00:09:26,340
 I told her that I could see that she cared about protecting her son, and I asked her
 
-137
-00:09:26,380 --> 00:09:29,219
+135
+00:09:26,340 --> 00:09:29,179
 if she got that from her parents.
 
-138
-00:09:29,219 --> 00:09:32,820
+136
+00:09:29,179 --> 00:09:32,780
 And then we had a conversation, and I learned about her.
 
+137
+00:09:32,820 --> 00:09:39,099
+I learned why she was afraid and angry, and how she fought through that fear to make a family.
+
+138
+00:09:39,099 --> 00:09:48,500
+When I welcomed this woman unconditionally, I saw her more clearly, but I also loved her instantly.
+
 139
-00:09:32,820 --> 00:09:36,780
-I learned why she was afraid and angry, and how she fought through that fear to make a
-
-140
-00:09:36,780 --> 00:09:39,099
-family.
-
-141
-00:09:39,099 --> 00:09:45,179
-When I welcomed this woman unconditionally, I saw her more clearly, but I also loved her
-
-142
-00:09:45,179 --> 00:09:48,500
-instantly.
-
-143
 00:09:48,500 --> 00:09:51,340
 We have been told too often that love is hard.
 
-144
-00:09:51,340 --> 00:09:52,679
+140
+00:09:51,340 --> 00:09:52,700
 It's not.
 
-145
-00:09:52,679 --> 00:09:57,179
+141
+00:09:52,700 --> 00:09:57,179
 Love is what happens when we stop trying to figure out who deserves it.
 
-146
+142
 00:09:57,179 --> 00:09:58,179
 It's right there.
 
-147
-00:09:58,179 --> 00:10:05,260
+143
+00:09:58,380 --> 00:10:05,219
 When we stop trying to figure out who deserves it, and we welcome someone, anyone, exactly
 
-148
-00:10:05,260 --> 00:10:09,979
+144
+00:10:05,219 --> 00:10:09,940
 as they are in the moment.
 
-149
-00:10:09,979 --> 00:10:14,419
-It will be two more years before I learn to do this with all the parts of myself.
+145
+00:10:09,940 --> 00:10:14,380
+It would be two more years before I learned to do this with all the parts of myself.
 
-150
-00:10:14,419 --> 00:10:15,900
+146
+00:10:14,380 --> 00:10:15,900
 But it started just as simply.
 
-151
-00:10:15,900 --> 00:10:24,260
+147
+00:10:15,900 --> 00:10:24,020
 A part of me had become very chatty, a part that was afraid and angry, whiny, demanding,
 
-152
-00:10:24,260 --> 00:10:27,380
+148
+00:10:24,020 --> 00:10:27,340
 unreasonable, and relentless.
 
-153
-00:10:27,380 --> 00:10:30,900
+149
+00:10:27,340 --> 00:10:30,859
 She told me that we were never going to get better, and she wanted out of here.
 
-154
-00:10:30,900 --> 00:10:32,539
+150
+00:10:30,859 --> 00:10:32,500
 I asked her what I could do.
 
-155
-00:10:32,539 --> 00:10:37,380
+151
+00:10:32,500 --> 00:10:37,340
 She only told me she wanted to die, over and over and over and over.
 
-156
-00:10:37,380 --> 00:10:41,140
+152
+00:10:37,340 --> 00:10:41,059
 I begged her to shut up, and she did not.
 
-157
-00:10:41,140 --> 00:10:47,979
+153
+00:10:41,059 --> 00:10:47,940
 Finally, after weeks of harassment, whether out of exhaustion or epiphany, instead of
 
-158
-00:10:47,979 --> 00:10:53,900
+154
+00:10:47,940 --> 00:10:53,859
 shouting back, I took a deep breath, I became my own moderator.
 
-159
-00:10:53,900 --> 00:11:00,460
+155
+00:10:53,859 --> 00:11:00,419
 I said out loud, in a voice that surprised me, thank you for sharing.
 
-160
-00:11:00,460 --> 00:11:06,619
+156
+00:11:00,419 --> 00:11:06,580
 I'm going to remind you of our agreement to be honest and reasonable.
 
-161
-00:11:06,619 --> 00:11:07,619
-She answered me.
+157
+00:11:06,580 --> 00:11:13,739
+She answered me, that voice, now don't get spooked, this is all just thinking happening.
 
-162
-00:11:07,619 --> 00:11:08,619
-That voice.
+158
+00:11:13,739 --> 00:11:18,659
+But the part of me asking and the part answering did in fact seem like different parts.
 
-163
-00:11:08,619 --> 00:11:09,960
-Now, don't get spooked.
-
-164
-00:11:09,960 --> 00:11:13,780
-This is all just thinking happening.
-
-165
-00:11:13,780 --> 00:11:18,700
-But the part of me asking and the part answering did, in fact, seem like different parts.
-
-166
-00:11:18,700 --> 00:11:22,619
+159
+00:11:18,659 --> 00:11:22,580
 She told me that she was in a lot of pain, and I told her, I know, and I promise you
 
-167
-00:11:22,619 --> 00:11:25,820
+160
+00:11:22,580 --> 00:11:25,760
 I'm going to take care of you, but I need you to get on board.
 
-168
-00:11:25,820 --> 00:11:30,179
+161
+00:11:25,760 --> 00:11:30,140
 I will listen to you, but I will not obey you.
 
-169
-00:11:30,179 --> 00:11:33,219
+162
+00:11:30,140 --> 00:11:33,219
 And as clearly as I'm speaking to you now, she said, okay.
 
-170
-00:11:33,219 --> 00:11:36,219
+163
+00:11:33,219 --> 00:11:36,179
 And then we started to talk.
 
-171
-00:11:36,219 --> 00:11:41,380
+164
+00:11:36,179 --> 00:11:41,340
 As I continued the dialogue with myself, I found more of me, more voices with more points
 
-172
-00:11:41,380 --> 00:11:47,659
+165
+00:11:41,340 --> 00:11:47,619
 of view, some of them more fun than others, and the imagined landscape of my mind began
 
-173
-00:11:47,659 --> 00:11:55,020
+166
+00:11:47,619 --> 00:11:54,979
 to look a lot like a focus group, this round table of wildly mixed characters and one moderator
 
-174
-00:11:55,020 --> 00:12:02,380
-keeping some kind of order with honesty, boundaries, kindness, and most importantly,
+167
+00:11:54,979 --> 00:12:03,340
+keeping some kind of order with honesty, boundaries, kindness, and most importantly, gratitude.
 
-175
-00:12:02,380 --> 00:12:03,380
-gratitude.
-
-176
-00:12:03,380 --> 00:12:09,099
+168
+00:12:03,340 --> 00:12:09,059
 I thank myself for their contributions, no matter how bonkers or twisted they may seem,
 
-177
-00:12:09,099 --> 00:12:11,419
+169
+00:12:09,059 --> 00:12:11,419
 because we're all me.
 
-178
+170
 00:12:11,419 --> 00:12:16,580
 I think of my fragmented self less like a broken mirror and more like a prism.
 
-179
+171
 00:12:16,580 --> 00:12:18,700
-We're a full spectrum.
+Over a full spectrum.
 
-180
+172
 00:12:18,700 --> 00:12:22,820
 Today there isn't a voice in my head that I don't welcome, and while some of us are
 
-181
-00:12:22,820 --> 00:12:25,780
+173
+00:12:22,820 --> 00:12:25,820
 occasionally unreasonable, we're not mean.
 
-182
-00:12:25,780 --> 00:12:30,299
+174
+00:12:25,820 --> 00:12:30,340
 Even my whiny, shamey voice is trying to help in her weird way, but when I ask her to be
 
-183
-00:12:30,299 --> 00:12:35,820
+175
+00:12:30,340 --> 00:12:35,859
 clear and kind, she tells me exactly what I need to know, what she needs to feel better
 
-184
-00:12:35,820 --> 00:12:38,539
+176
+00:12:35,859 --> 00:12:38,559
 and what she'd like for me to learn.
 
-185
-00:12:38,539 --> 00:12:43,520
+177
+00:12:38,559 --> 00:12:43,539
 But just like the scared and angry mother, she only does this when I accept her exactly
 
-186
-00:12:43,520 --> 00:12:46,780
+178
+00:12:43,539 --> 00:12:46,799
 as she is in the moment.
 
-187
-00:12:46,780 --> 00:12:52,539
+179
+00:12:46,799 --> 00:12:52,539
 So while my openings for self talk and focus groups sound almost identical, the closings
 
-188
-00:12:52,539 --> 00:12:53,820
+180
+00:12:52,539 --> 00:12:54,539
 are a little different.
 
-189
-00:12:53,820 --> 00:12:58,539
+181
+00:12:54,539 --> 00:12:58,580
 At the round table, I would hand out parking validation and remind everyone to sign for
 
-190
-00:12:58,539 --> 00:13:03,940
+182
+00:12:58,580 --> 00:13:03,979
 their cash, but when I'm with all of me, I say, I love you.
 
-191
-00:13:03,940 --> 00:13:09,340
+183
+00:13:03,979 --> 00:13:09,380
 Thank you for helping me see what you see, which is why this practice is so useful for
 
-192
-00:13:09,340 --> 00:13:14,020
+184
+00:13:09,380 --> 00:13:14,020
 all of us here with our different perspectives inside and outside of one another.
 
-193
-00:13:14,020 --> 00:13:20,880
+185
+00:13:14,020 --> 00:13:20,900
 If we can receive one another with the curiosity and welcome of a focus group moderator, perhaps
 
-194
-00:13:20,960 --> 00:13:23,679
+186
+00:13:20,900 --> 00:13:23,700
 we can do a better job of love.
 
-195
-00:13:23,679 --> 00:13:28,679
+187
+00:13:23,700 --> 00:13:28,700
 Because it is not true what they say, that you can't love anyone until you love yourself.
 
-196
-00:13:28,679 --> 00:13:32,200
+188
+00:13:28,700 --> 00:13:32,219
 Love is a house you can crawl in through a window.
 
-197
-00:13:32,200 --> 00:13:35,760
+189
+00:13:32,219 --> 00:13:35,900
 If you can't start with yourself, start with the person next to you right now, whether
 
-198
-00:13:35,760 --> 00:13:37,320
+190
+00:13:35,900 --> 00:13:37,340
 you know them or not.
 
-199
-00:13:37,320 --> 00:13:40,440
+191
+00:13:37,340 --> 00:13:39,900
 All you have to do is let them be here.
 
-200
-00:13:40,440 --> 00:13:42,679
+192
+00:13:39,900 --> 00:13:42,739
 It's easy, isn't it?
 
-201
-00:13:42,679 --> 00:13:48,520
+193
+00:13:42,739 --> 00:13:48,580
 Wherever they've been, whatever they're carrying, whatever talents they have or don't have,
 
-202
-00:13:48,520 --> 00:13:53,960
+194
+00:13:48,580 --> 00:13:53,979
 whatever mistakes they've made, can you just welcome them here?
 
-203
-00:13:53,960 --> 00:13:56,799
+195
+00:13:53,979 --> 00:13:56,859
 Can you welcome you?
 
-204
-00:13:56,799 --> 00:14:00,760
+196
+00:13:56,859 --> 00:14:00,780
 We're here right now like this.
 
-205
-00:14:00,760 --> 00:14:07,280
-We're beautiful and strange and complicated and scared and sometimes kind of horrible,
+197
+00:14:00,780 --> 00:14:07,299
+We're beautiful and strange and complicated and scared and sometimes kind of horrible.
 
-206
-00:14:07,280 --> 00:14:10,960
-but all of us are worthy of welcome.
+198
+00:14:07,299 --> 00:14:10,979
+But all of us are worthy of welcome.
 
-207
-00:14:10,960 --> 00:14:17,559
+199
+00:14:10,979 --> 00:14:17,580
 And everyone that you show unconditional welcome may show you a part of yourself to love.
 
-208
-00:14:17,559 --> 00:14:18,559
+200
+00:14:17,580 --> 00:14:18,580
 You are welcome.
 
-209
-00:14:18,559 --> 00:14:19,559
+201
+00:14:18,580 --> 00:14:19,580
+Thank you.
+
+202
+00:14:19,580 --> 00:14:20,580
 Thank you.
 
