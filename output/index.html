@@ -79,9 +79,33 @@
             align-items: center;
             justify-content: center;
             position: relative;
+            overflow: hidden;
         }
 
-        .video-thumbnail::before {
+        .video-thumbnail img {
+            width: 100%;
+            height: 100%;
+            object-fit: cover;
+            transition: transform 0.3s ease;
+        }
+
+        .video-card:hover .video-thumbnail img {
+            transform: scale(1.05);
+        }
+
+        .video-thumbnail .play-icon {
+            position: absolute;
+            font-size: 3rem;
+            color: rgba(255, 255, 255, 0.8);
+            text-shadow: 0 2px 10px rgba(0, 0, 0, 0.5);
+            transition: transform 0.3s ease;
+        }
+
+        .video-card:hover .play-icon {
+            transform: scale(1.2);
+        }
+
+        .video-thumbnail.no-thumb::before {
             content: '▶';
             font-size: 3rem;
             color: rgba(255, 255, 255, 0.3);
@@ -167,7 +191,7 @@
             font-size: 0.9rem;
         }
 
-        footer a {
+        a {
             color: #00d2ff;
             text-decoration: none;
         }
@@ -239,19 +263,26 @@
             }
 
             videoListEl.className = 'video-grid';
-            videoListEl.innerHTML = videos.map((video, index) => `
-                <div class="video-card" onclick="playVideo('${video.url}', '${video.title}', this)">
-                    <div class="video-thumbnail"></div>
-                    <div class="video-info">
-                        <h3>${video.title}</h3>
-                        <span>${video.description || 'Vídeo com legendas PT/EN'}</span>
-                        ${video.originalVideo
-                    ? `<a href="${video.originalVideo}" target="_blank" rel="noopener noreferrer">Vídeo original</a>`
-                    : ``
-                }
+            videoListEl.innerHTML = videos.map((video, index) => {
+                const thumbnailContent = video.thumbnail
+                    ? `<img src="${video.thumbnail}" alt="${video.title}"><span class="play-icon">▶</span>`
+                    : '';
+                const thumbClass = video.thumbnail ? '' : 'no-thumb';
+
+                return `
+                    <div class="video-card" onclick="playVideo('${video.url}', '${video.title}', this)">
+                        <div class="video-thumbnail ${thumbClass}">${thumbnailContent}</div>
+                        <div class="video-info">
+                            <h3>${video.title}</h3>
+                            <span>${video.description || 'Vídeo com legendas PT/EN'}</span>
+                            ${video.originalVideo
+                        ? `<a href="${video.originalVideo}" target="_blank" rel="noopener noreferrer">Vídeo original</a>`
+                        : ``
+                    }
+                        </div>
                     </div>
-                </div>
-            `).join('');
+                `;
+            }).join('');
         }
 
         function playVideo(url, title, cardElement) {
