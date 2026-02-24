@@ -113,6 +113,9 @@
 
         .video-info {
             padding: 1rem;
+            display: flex;
+            flex-direction: column;
+            gap: 0.5rem;
         }
 
         .video-info h3 {
@@ -276,7 +279,7 @@
                             <h3>${video.title}</h3>
                             <span>${video.description || 'Vídeo com legendas PT/EN'}</span>
                             ${video.originalVideo
-                        ? `<a href="${video.originalVideo}" target="_blank" rel="noopener noreferrer">Vídeo original</a>`
+                        ? `<a href="${video.originalVideo}" target="_blank" rel="noopener noreferrer">Link do vídeo original</a>`
                         : ``
                     }
                         </div>
