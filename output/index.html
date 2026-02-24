@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="pt-BR">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -196,6 +197,7 @@
         }
     </style>
 </head>
+
 <body>
     <div class="container">
         <header>
@@ -235,7 +237,7 @@
             try {
                 const response = await fetch('videos.json');
                 if (!response.ok) throw new Error('Arquivo não encontrado');
-                
+
                 const data = await response.json();
                 renderVideos(data.videos);
             } catch (error) {
@@ -249,34 +251,34 @@
             }
         }
 
-        function renderVideos(videos) {
-            if (!videos || videos.length === 0) {
-                videoListEl.innerHTML = `
-                    <div class="no-videos">
-                        <h2>Nenhum vídeo disponível</h2>
-                        <p>Os vídeos processados aparecerão aqui.</p>
-                    </div>
-                `;
-                return;
-            }
+        function renderVideos(data) {
+            const container = document.getElementById("video-list");
+            container.innerHTML = "";
 
-            videoListEl.className = 'video-grid';
-            videoListEl.innerHTML = videos.map((video, index) => {
-                const thumbnailContent = video.thumbnail 
-                    ? `<img src="${video.thumbnail}" alt="${video.title}"><span class="play-icon">▶</span>`
-                    : '';
-                const thumbClass = video.thumbnail ? '' : 'no-thumb';
-                
-                return `
-                    <div class="video-card" onclick="playVideo('${video.url}', '${video.title}', this)">
-                        <div class="video-thumbnail ${thumbClass}">${thumbnailContent}</div>
-                        <div class="video-info">
-                            <h3>${video.title}</h3>
-                            <span>${video.description || 'Vídeo com legendas PT/EN'}</span>
-                        </div>
+            data.videos.forEach((video) => {
+                const card = document.createElement("div");
+                card.className = "video-card";
+
+                card.innerHTML = `
+                    <div class="thumb-wrapper">
+                    <img src="${video.thumbnail || 'placeholder.jpg'}" alt="${video.title}">
+                    </div>
+                    <div class="video-info">
+                    <h3>${video.title}</h3>
+                    <p>${video.description || ''}</p>
+                    ${video.originalVideo
+                        ? `<a href="${video.originalVideo}" target="_blank" rel="noopener noreferrer">Vídeo original</a>`
+                        : ``
+                    }
                     </div>
                 `;
-            }).join('');
+
+                card.addEventListener("click", () => {
+                    loadVideo(video.url);
+                });
+
+                container.appendChild(card);
+            });
         }
 
         function playVideo(url, title, cardElement) {
@@ -284,7 +286,7 @@
             if (currentCard) {
                 currentCard.classList.remove('active');
             }
-            
+
             // Marca o card atual
             cardElement.classList.add('active');
             currentCard = cardElement;
@@ -293,11 +295,11 @@
             videoSource.src = url;
             playerTitle.textContent = title;
             videoPlayer.load();
-            
+
             // Mostra o player e rola até ele
             playerSection.classList.add('visible');
             playerSection.scrollIntoView({ behavior: 'smooth' });
-            
+
             // Inicia reprodução
             videoPlayer.play().catch(() => {
                 // Autoplay pode ser bloqueado pelo navegador
@@ -307,7 +309,7 @@
         function closePlayer() {
             playerSection.classList.remove('visible');
             videoPlayer.pause();
-            
+
             if (currentCard) {
                 currentCard.classList.remove('active');
                 currentCard = null;
@@ -318,4 +320,5 @@
         loadVideos();
     </script>
 </body>
+
 </html>

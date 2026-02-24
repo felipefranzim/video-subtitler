@@ -1,0 +1,452 @@
+1
+00:00:00,000 --> 00:00:24,000
+Quando eu era criança, o desastre que mais nos preocupava era uma guerra nuclear.
+
+2
+00:00:24,000 --> 00:00:28,520
+É por isso que tínhamos um barril como este em nosso porão, cheio de latas de comida
+
+3
+00:00:28,520 --> 00:00:30,400
+e água.
+
+4
+00:00:30,400 --> 00:00:34,959
+Quando o ataque nuclear acontecesse, deveríamos descer ao porão, nos agachar e comer
+
+5
+00:00:34,959 --> 00:00:36,880
+daquele barril.
+
+6
+00:00:36,880 --> 00:00:43,840
+Hoje, o maior risco de catástrofe global não se parece com isso.
+
+7
+00:00:43,840 --> 00:00:48,400
+Em vez disso, se parece com isto.
+
+8
+00:00:48,400 --> 00:00:55,160
+Se algo matar mais de 10 milhões de pessoas nas próximas décadas, é mais provável que
+
+9
+00:00:55,160 --> 00:00:59,959
+seja um vírus altamente infeccioso, ao invés de uma guerra.
+
+10
+00:00:59,959 --> 00:01:03,000
+Não mísseis, mas micróbios.
+
+11
+00:01:03,000 --> 00:01:10,160
+Agora, parte da razão para isso é que investimos uma enorme quantidade em dissuasão nuclear.
+
+12
+00:01:10,160 --> 00:01:16,120
+Na verdade, investimos muito pouco em um sistema para deter uma epidemia.
+
+13
+00:01:16,120 --> 00:01:20,040
+Não estamos preparados para a próxima epidemia.
+
+14
+00:01:20,040 --> 00:01:21,559
+Vamos olhar para o Ebola.
+
+15
+00:01:21,559 --> 00:01:26,199
+Tenho certeza de que todos vocês leram sobre isso no jornal.
+
+16
+00:01:26,199 --> 00:01:27,199
+Muitos desafios difíceis.
+
+17
+00:01:27,199 --> 00:01:35,760
+Acompanhei cuidadosamente através das ferramentas de análise de casos que usamos para rastrear a erradicação da poliomielite.
+
+18
+00:01:35,760 --> 00:01:40,800
+E ao observar o que aconteceu, o problema não foi que havia um sistema que não
+
+19
+00:01:40,800 --> 00:01:42,239
+funcionava bem o suficiente.
+
+20
+00:01:42,239 --> 00:01:45,720
+O problema era que não tínhamos um sistema de todo.
+
+21
+00:01:45,720 --> 00:01:50,959
+Na verdade, existem algumas peças-chave bastante óbvias que estão faltando.
+
+22
+00:01:50,959 --> 00:01:56,519
+Nós não tínhamos um grupo de epidemiologistas prontos para agir, que teriam ido, visto qual
+
+23
+00:01:56,519 --> 00:01:59,760
+era a doença, visto o quão longe ela havia se espalhado.
+
+24
+00:01:59,760 --> 00:02:02,000
+Os relatórios de casos chegaram em papel.
+
+25
+00:02:02,000 --> 00:02:07,559
+Houve um grande atraso antes de serem colocados online, e eles estavam extremamente imprecisos.
+
+26
+00:02:07,559 --> 00:02:09,759
+Nós não tínhamos uma equipe médica pronta para agir.
+
+27
+00:02:09,759 --> 00:02:12,119
+Nós não tínhamos uma maneira de preparar as pessoas.
+
+28
+00:02:12,119 --> 00:02:18,759
+Agora, a Medicina Sem Fronteiras fez um ótimo trabalho orquestrando voluntários, mas mesmo assim,
+
+29
+00:02:18,800 --> 00:02:23,000
+fomos muito mais lentos do que deveríamos ter sido para levar os milhares de trabalhadores a esses
+
+30
+00:02:23,000 --> 00:02:24,399
+países.
+
+31
+00:02:24,399 --> 00:02:31,399
+E uma grande epidemia exigiria que tivéssemos centenas de milhares de trabalhadores.
+
+32
+00:02:32,740 --> 00:02:38,919
+Não havia ninguém lá para analisar as abordagens de tratamento, ninguém para olhar para os diagnósticos,
+
+33
+00:02:38,919 --> 00:02:42,320
+ninguém para descobrir quais ferramentas deveriam ser usadas.
+
+34
+00:02:42,320 --> 00:02:48,399
+Como exemplo, poderíamos ter coletado o sangue dos sobreviventes, processado e colocado esse plasma
+
+35
+00:02:48,440 --> 00:02:53,759
+de volta nas pessoas para protegê-las, mas isso nunca foi tentado.
+
+36
+00:02:53,759 --> 00:03:00,240
+Portanto, havia muito que estava faltando, e essas coisas são realmente uma falha global.
+
+37
+00:03:00,240 --> 00:03:06,919
+A OMS é financiada para monitorar epidemias, mas não para fazer essas coisas que eu falei.
+
+38
+00:03:06,919 --> 00:03:09,839
+Agora, nos filmes, é bem diferente.
+
+39
+00:03:09,839 --> 00:03:14,800
+Há um grupo de epidemiologistas bonitões prontos para agir.
+
+40
+00:03:14,800 --> 00:03:22,080
+Eles entram em ação, salvam o dia, mas isso é pura ficção de Hollywood.
+
+41
+00:03:22,080 --> 00:03:28,279
+A falta de preparação poderia permitir que a próxima epidemia seja dramaticamente mais devastadora
+
+42
+00:03:28,279 --> 00:03:30,800
+do que o Ebola.
+
+43
+00:03:30,800 --> 00:03:36,399
+Vamos olhar para a progressão do Ebola ao longo deste ano.
+
+44
+00:03:36,399 --> 00:03:43,880
+Cerca de 10.000 pessoas morreram, e quase todas estavam nos três países da África Ocidental.
+
+45
+00:03:43,880 --> 00:03:46,600
+Existem três razões pelas quais ele não se espalhou mais.
+
+46
+00:03:46,600 --> 00:03:50,720
+A primeira é que houve um trabalho heróico dos profissionais de saúde.
+
+47
+00:03:50,720 --> 00:03:54,080
+Eles encontraram as pessoas e preveniram mais infecções.
+
+48
+00:03:54,080 --> 00:03:57,039
+A segunda é a natureza do vírus.
+
+49
+00:03:57,039 --> 00:04:02,279
+O Ebola não se espalha pelo ar e, quando você está contagioso, a maioria das pessoas
+
+50
+00:04:02,279 --> 00:04:05,639
+estão tão doentes que estão acamadas.
+
+51
+00:04:05,639 --> 00:04:12,339
+Terceiro, ele não chegou a muitas áreas urbanas, e isso foi pura sorte.
+
+52
+00:04:12,339 --> 00:04:18,179
+Se tivesse chegado a um número maior de áreas urbanas, o número de casos teria sido muito maior.
+
+53
+00:04:18,179 --> 00:04:21,459
+Então, da próxima vez, talvez não tenhamos tanta sorte.
+
+54
+00:04:21,459 --> 00:04:26,579
+Você pode ter um vírus em que as pessoas se sentem bem o suficiente enquanto estão infectadas para que
+
+55
+00:04:26,579 --> 00:04:30,059
+peguem um avião ou vão a um mercado.
+
+56
+00:04:30,059 --> 00:04:34,859
+A fonte do vírus pode ser uma epidemia natural como o Ebola, ou pode ser bioterrorismo.
+
+57
+00:04:34,859 --> 00:04:39,339
+E então, existem coisas que literalmente tornariam as coisas 1.000 vezes piores.
+
+58
+00:04:39,899 --> 00:04:47,339
+Na verdade, vamos olhar para um modelo de um vírus que se espalha pelo ar como a gripe espanhola
+
+59
+00:04:47,339 --> 00:04:49,899
+de 1918.
+
+60
+00:04:49,899 --> 00:04:51,540
+Então, aqui está o que aconteceria.
+
+61
+00:04:51,540 --> 00:04:55,579
+Isso se espalharia pelo mundo muito, muito rapidamente.
+
+62
+00:04:55,579 --> 00:05:00,700
+E você pode ver que mais de 30 milhões de pessoas morrem dessa epidemia.
+
+63
+00:05:00,700 --> 00:05:02,619
+Então, este é um problema sério.
+
+64
+00:05:02,619 --> 00:05:04,459
+Nós deveríamos estar preocupados.
+
+65
+00:05:04,459 --> 00:05:08,980
+Mas, na verdade, podemos construir um sistema de resposta realmente eficaz.
+
+66
+00:05:08,980 --> 00:05:13,820
+Temos os benefícios de toda a ciência e tecnologia sobre as quais falamos aqui.
+
+67
+00:05:13,820 --> 00:05:18,179
+Temos celulares para obter informações do público e fornecer informações a eles.
+
+68
+00:05:18,179 --> 00:05:22,220
+Temos mapas de satélite onde podemos ver onde as pessoas estão e para onde estão se movendo.
+
+69
+00:05:22,220 --> 00:05:28,260
+Temos avanços na biologia que devem mudar drasticamente o tempo de resposta para analisar um patógeno.
+
+70
+00:05:28,260 --> 00:05:34,260
+e ser capaz de fazer medicamentos e vacinas adequados para esse patógeno.
+
+71
+00:05:34,260 --> 00:05:39,420
+Então, podemos ter ferramentas, mas essas ferramentas precisam ser inseridas em um sistema global de saúde,
+
+72
+00:05:39,420 --> 00:05:41,700
+e precisamos estar preparados.
+
+73
+00:05:41,700 --> 00:05:47,100
+As melhores lições, eu acho, sobre como se preparar são, novamente, o que fazemos para a guerra.
+
+74
+00:05:47,100 --> 00:05:50,820
+Para os soldados, temos pessoas em tempo integral esperando para ir.
+
+75
+00:05:50,820 --> 00:05:54,500
+Temos reservas que podem nos escalar para grandes números.
+
+76
+00:05:54,500 --> 00:05:58,179
+A OTAN tem uma unidade móvel que pode ser implantada muito rapidamente.
+
+77
+00:05:58,179 --> 00:06:01,700
+A OTAN realiza muitos jogos de guerra para verificar, as pessoas estão bem treinadas?
+
+78
+00:06:01,700 --> 00:06:06,100
+Eles entendem sobre combustível, logística e as mesmas frequências de rádio?
+
+79
+00:06:06,100 --> 00:06:08,820
+Então, eles estão absolutamente prontos para ir.
+
+80
+00:06:08,820 --> 00:06:13,700
+Então, essas são as coisas que precisamos para lidar com uma epidemia.
+
+81
+00:06:13,700 --> 00:06:15,579
+Quais são as peças-chave?
+
+82
+00:06:15,579 --> 00:06:20,619
+Primeiro, precisamos de sistemas de saúde fortes em países pobres.
+
+83
+00:06:20,619 --> 00:06:25,579
+É onde as mães podem dar à luz com segurança, as crianças podem receber todas as suas vacinas,
+
+84
+00:06:25,579 --> 00:06:30,059
+mas também onde veremos o surto muito cedo.
+
+85
+00:06:30,059 --> 00:06:31,820
+Precisamos de um corpo de reserva médica,
+
+86
+00:06:31,820 --> 00:06:34,420
+muitas pessoas que têm o treinamento e a formação,
+
+87
+00:06:34,420 --> 00:06:37,859
+que estão prontas para ir com a expertise.
+
+88
+00:06:37,859 --> 00:06:42,380
+E então precisamos juntar essas pessoas médicas com o exército,
+
+89
+00:06:42,380 --> 00:06:48,500
+aproveitando a capacidade do exército de se mover rapidamente através da logística e garantir áreas.
+
+90
+00:06:48,500 --> 00:06:53,540
+Precisamos fazer simulações, jogos de germes, não jogos de guerra,
+
+91
+00:06:53,540 --> 00:06:56,420
+para que possamos ver onde estão os buracos.
+
+92
+00:06:56,420 --> 00:07:00,940
+A última vez que um jogo de germes foi realizado nos Estados Unidos foi em 2001,
+
+93
+00:07:00,940 --> 00:07:02,660
+e não correu tão bem.
+
+94
+00:07:02,660 --> 00:07:07,420
+Até agora, o placar está germes um, pessoas zero.
+
+95
+00:07:07,420 --> 00:07:13,820
+Finalmente, precisamos de muita pesquisa e desenvolvimento avançado em áreas de vacinas e diagnósticos.
+
+96
+00:07:13,820 --> 00:07:17,299
+Existem algumas grandes descobertas, como o vírus associado ao Deno,
+
+97
+00:07:17,299 --> 00:07:21,299
+que poderiam funcionar muito, muito rapidamente.
+
+98
+00:07:21,299 --> 00:07:24,579
+Agora, eu não tenho um orçamento exato para o quanto isso custaria,
+
+99
+00:07:24,579 --> 00:07:29,700
+mas tenho certeza de que é muito modesto comparado ao dano potencial.
+
+100
+00:07:29,700 --> 00:07:33,660
+O Banco Mundial estima que, se tivermos uma epidemia de gripe mundial,
+
+101
+00:07:33,660 --> 00:07:37,459
+A riqueza global diminuirá em mais de três trilhões de dólares,
+
+102
+00:07:37,459 --> 00:07:41,859
+e teríamos milhões e milhões de mortes.
+
+103
+00:07:41,859 --> 00:07:46,859
+Esses investimentos oferecem benefícios significativos além de apenas estarmos preparados para a epidemia.
+
+104
+00:07:46,859 --> 00:07:51,019
+O atendimento primário à saúde, a pesquisa e desenvolvimento, essas coisas reduziriam a desigualdade na saúde global
+
+105
+00:07:51,019 --> 00:07:55,220
+e tornariam o mundo mais justo, além de mais seguro.
+
+106
+00:07:55,220 --> 00:07:59,820
+Então, eu acho que isso deveria ser absolutamente uma prioridade.
+
+107
+00:07:59,820 --> 00:08:00,859
+Não há necessidade de entrar em pânico.
+
+108
+00:08:00,859 --> 00:08:05,579
+Não precisamos estocar latas de espaguete ou ir para o porão.
+
+109
+00:08:05,579 --> 00:08:09,940
+Mas precisamos começar, porque o tempo não está ao nosso favor.
+
+110
+00:08:09,940 --> 00:08:15,459
+Na verdade, se há algo positivo que pode surgir da epidemia de Ebola,
+
+111
+00:08:15,459 --> 00:08:21,739
+é que isso pode servir como um alerta precoce, um chamado para se preparar.
+
+112
+00:08:21,739 --> 00:08:27,059
+Se começarmos agora, podemos estar prontos para a próxima epidemia.
+
+113
+00:08:27,059 --> 00:08:28,059
+Obrigado.
+

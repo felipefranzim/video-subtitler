@@ -18,7 +18,7 @@ def escape_ffmpeg_path(path: str) -> str:
     escaped = escaped.replace(":", "\\:")
     return escaped
 
-def generate_thumbnail(video_path: str, output_path: str, time_seconds: int = 30) -> str:
+def generate_thumbnail(video_path: str, output_path: str, time_seconds: int = 15) -> str:
     """
     Gera uma thumbnail do vídeo.
     

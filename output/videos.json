@@ -1,10 +1,25 @@
 {
   "videos": [
     {
-      "title": "Tedtalk 01",
+      "title": "How to talk to the worst parts of yourself | Karen Faith | TEDxKC",
       "url": "tedtalk_01_subtitled.mp4",
       "thumbnail": "tedtalk_01_subtitled.jpg",
-      "description": "Vídeo com legendas em inglês e português"
+      "description": "Vídeo com legendas em inglês e português",
+      "originalVideo": "https://www.youtube.com/watch?v=gUV5DJb6KGs&pp=ygUJdGVkIHRhbGtz"
+    },
+    {
+      "title": "The next outbreak? We’re not ready | Bill Gates | TED",
+      "url": "tedtalks_02_subtitled.mp4",
+      "thumbnail": "tedtalks_02_subtitled.jpg",
+      "description": "Vídeo com legendas em inglês e português",
+      "originalVideo": "https://www.youtube.com/watch?v=6Af6b_wyiwI&pp=ygUJdGVkIHRhbGtz"
+    },
+    {
+      "title": "Grit: The Power of Passion and Perseverance | Angela Lee Duckworth | TED",
+      "url": "tedtalks_03_subtitled.mp4",
+      "thumbnail": "tedtalks_03_subtitled.jpg",
+      "description": "Vídeo com legendas em inglês e português",
+      "originalVideo": "https://www.youtube.com/watch?v=H14bBuluwB8&pp=ygUJdGVkIHRhbGtz"
     }
   ]
 }
