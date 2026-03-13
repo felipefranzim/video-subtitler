@@ -1,0 +1,820 @@
+1
+00:00:00,000 --> 00:00:17,000
+So how do we learn?
+
+2
+00:00:17,000 --> 00:00:21,639
+And why do some of us learn things more easily than others?
+
+3
+00:00:21,639 --> 00:00:26,559
+So as I was mentioning, I'm Dr. Laura Boyd, I'm a brain researcher here at the University
+
+4
+00:00:26,559 --> 00:00:27,559
+of British Columbia.
+
+5
+00:00:28,559 --> 00:00:35,840
+These are the questions that fascinate me.
+
+6
+00:00:35,840 --> 00:00:41,560
+So brain research is one of the great frontiers in the understanding of human physiology and
+
+7
+00:00:41,560 --> 00:00:45,959
+also in the consideration of what makes us who we are.
+
+8
+00:00:45,959 --> 00:00:50,080
+It's an amazing time to be a brain researcher and I would argue to you that I have the most
+
+9
+00:00:50,080 --> 00:00:52,720
+interesting job in the world.
+
+10
+00:00:52,720 --> 00:00:57,480
+What we know about the brain is changing at a breathtaking pace and much of what we
+
+11
+00:00:57,480 --> 00:01:03,599
+thought we knew and understood about the brain turns out to be not true or incomplete.
+
+12
+00:01:03,599 --> 00:01:07,320
+Now some of these misconceptions are more obvious than others.
+
+13
+00:01:07,320 --> 00:01:14,080
+For example, we used to think that after childhood the brain did not, really could not change
+
+14
+00:01:14,080 --> 00:01:18,559
+and it turns out that nothing could be farther from the truth.
+
+15
+00:01:18,559 --> 00:01:22,400
+Another misconception about the brain is that you only use parts of it at any given
+
+16
+00:01:22,400 --> 00:01:25,800
+time and silent when you do nothing.
+
+17
+00:01:25,800 --> 00:01:27,480
+This is also untrue.
+
+18
+00:01:27,480 --> 00:01:32,480
+It turns out that even when you're at rest and thinking of nothing, your brain is highly
+
+19
+00:01:32,480 --> 00:01:33,480
+active.
+
+20
+00:01:33,480 --> 00:01:38,760
+So it's been advances in technology such as MRI has allowed us to make these and many
+
+21
+00:01:38,760 --> 00:01:41,199
+other important discoveries.
+
+22
+00:01:41,199 --> 00:01:45,839
+And perhaps the most exciting, the most interesting and transformative of these discoveries is
+
+23
+00:01:45,839 --> 00:01:51,760
+that every time you learn a new fact or skill, you change your brain.
+
+24
+00:01:51,760 --> 00:01:54,879
+It's something we call neuroplasticity.
+
+25
+00:01:54,879 --> 00:01:59,720
+So as little as 25 years ago, we thought that after about puberty, the only changes that
+
+26
+00:01:59,720 --> 00:02:01,800
+took place in the brain were negative.
+
+27
+00:02:01,800 --> 00:02:06,980
+The loss of brain cells with aging, the result of damage like a stroke.
+
+28
+00:02:06,980 --> 00:02:13,880
+And then studies began to show remarkable amounts of reorganization in the adult brain.
+
+29
+00:02:13,919 --> 00:02:20,160
+And the assuming research has shown us that all of our behaviors change our brain.
+
+30
+00:02:20,160 --> 00:02:24,740
+That these changes are not limited by age, it's good news, right?
+
+31
+00:02:24,740 --> 00:02:27,839
+And in fact, they're taking place all the time.
+
+32
+00:02:27,839 --> 00:02:33,160
+And very importantly, brain reorganization helps to support recovery after you damage
+
+33
+00:02:33,160 --> 00:02:35,039
+your brain.
+
+34
+00:02:35,039 --> 00:02:39,660
+The key to each of these changes is neuroplasticity.
+
+35
+00:02:39,660 --> 00:02:41,559
+So what does it look like?
+
+36
+00:02:41,559 --> 00:02:46,160
+Your brain can change in three very basic ways to support learning.
+
+37
+00:02:46,160 --> 00:02:47,479
+And the first is chemical.
+
+38
+00:02:47,479 --> 00:02:52,759
+So your brain actually functions by transferring chemical signals between brain cells, what
+
+39
+00:02:52,759 --> 00:02:57,759
+we call neurons, and these trigger a series of actions and reactions.
+
+40
+00:02:57,759 --> 00:03:02,320
+So to support learning, your brain can increase the amount or the concentrations of these
+
+41
+00:03:02,320 --> 00:03:06,559
+chemical signaling that's taking place between neurons.
+
+42
+00:03:06,559 --> 00:03:11,000
+Now because this kind of change can happen very rapidly, this supports short-term memory
+
+43
+00:03:11,000 --> 00:03:15,720
+or the short-term improvement in the performance of a motor skill.
+
+44
+00:03:15,720 --> 00:03:21,619
+The second way that the brain can change to support learning is by altering its structure.
+
+45
+00:03:21,619 --> 00:03:25,639
+So during learning, the brain can change the connections between neurons.
+
+46
+00:03:25,639 --> 00:03:29,399
+Now here, the physical structure of the brain is actually changing, so this takes a bit
+
+47
+00:03:29,399 --> 00:03:31,080
+more time.
+
+48
+00:03:31,080 --> 00:03:35,720
+These types of changes are related to long-term memory, the long-term improvement in a motor
+
+49
+00:03:35,720 --> 00:03:36,960
+skill.
+
+50
+00:03:36,960 --> 00:03:41,679
+Now these processes, they interact, and let me give you an example of how.
+
+51
+00:03:41,679 --> 00:03:47,320
+So we've all tried to learn a new motor skill, maybe playing the piano, maybe learning to
+
+52
+00:03:47,320 --> 00:03:48,320
+juggle.
+
+53
+00:03:48,320 --> 00:03:53,199
+And you've had the experience of getting better and better within a single session of practice
+
+54
+00:03:53,199 --> 00:03:55,960
+and thinking, I've got it.
+
+55
+00:03:55,960 --> 00:03:59,759
+And then maybe you've returned the next day and all those improvements from the day before,
+
+56
+00:03:59,759 --> 00:04:01,679
+they're lost.
+
+57
+00:04:01,679 --> 00:04:02,679
+What happened?
+
+58
+00:04:03,000 --> 00:04:07,320
+Well, in the short-term, your brain was able to increase the chemical signaling between
+
+59
+00:04:07,320 --> 00:04:08,320
+your neurons.
+
+60
+00:04:08,320 --> 00:04:14,720
+But for some reason, those changes did not induce the structural change that are necessary
+
+61
+00:04:14,720 --> 00:04:17,760
+to support long-term memory.
+
+62
+00:04:17,760 --> 00:04:22,480
+Remember that long-term memories take time, and what you see in the short-term does not
+
+63
+00:04:22,480 --> 00:04:24,160
+reflect learning.
+
+64
+00:04:24,160 --> 00:04:28,260
+It's these physical changes that are now going to support long-term memories and chemical
+
+65
+00:04:28,260 --> 00:04:33,260
+changes that support short-term memories.
+
+66
+00:04:33,260 --> 00:04:37,739
+Structural changes also can lead to integrated networks of brain regions that function together
+
+67
+00:04:37,739 --> 00:04:39,459
+to support learning.
+
+68
+00:04:39,459 --> 00:04:44,179
+And they can also lead to certain brain regions that are important for very specific behaviors
+
+69
+00:04:44,179 --> 00:04:46,980
+to change their structure or to enlarge.
+
+70
+00:04:46,980 --> 00:04:49,339
+So here's some examples of that.
+
+71
+00:04:49,339 --> 00:04:54,760
+So people who read Braille, they have larger hand sensory areas in their brain than those
+
+72
+00:04:54,760 --> 00:04:57,019
+of us who don't.
+
+73
+00:04:57,019 --> 00:05:02,220
+Your dominant hand motor region, which is on the left side of your brain if you're right-handed,
+
+74
+00:05:02,220 --> 00:05:04,899
+is larger than the other side.
+
+75
+00:05:04,899 --> 00:05:10,299
+And research shows that London taxicab drivers who actually have to memorize a map of London
+
+76
+00:05:10,299 --> 00:05:16,220
+to get their taxicab license, they have larger brain regions devoted to spatial or mapping
+
+77
+00:05:16,220 --> 00:05:18,019
+memories.
+
+78
+00:05:18,019 --> 00:05:24,100
+Now the last way that your brain can change to support learning is by altering its function.
+
+79
+00:05:24,100 --> 00:05:29,619
+As you use a brain region, it becomes more and more excitable and easy to use again.
+
+80
+00:05:29,619 --> 00:05:34,179
+And as your brain has these areas that increase their excitability, the brain shifts how and
+
+81
+00:05:34,179 --> 00:05:36,420
+when they're activated.
+
+82
+00:05:36,420 --> 00:05:42,579
+With learning, we see that whole networks of brain activity are shifting and changing.
+
+83
+00:05:42,579 --> 00:05:48,980
+So neuroplasticity is supported by chemical, by structural, and by functional changes.
+
+84
+00:05:48,980 --> 00:05:51,640
+And these are happening across the whole brain.
+
+85
+00:05:51,640 --> 00:05:57,760
+They can occur in isolation from one another, but most often they take place in concert.
+
+86
+00:05:57,760 --> 00:05:59,720
+Together they support learning.
+
+87
+00:05:59,720 --> 00:06:04,279
+And they're taking place all the time.
+
+88
+00:06:04,279 --> 00:06:09,079
+So I've just told you really how awesomely neuroplastic your brain is.
+
+89
+00:06:09,079 --> 00:06:13,279
+So why can't you learn anything you choose to with ease?
+
+90
+00:06:13,279 --> 00:06:17,160
+Why do our kids sometimes fail in school?
+
+91
+00:06:17,160 --> 00:06:20,880
+Why as we age do we tend to forget things?
+
+92
+00:06:20,920 --> 00:06:24,640
+And why don't people fully recover from brain damage?
+
+93
+00:06:24,640 --> 00:06:29,799
+That is, what is it that limits and facilitates neuroplasticity?
+
+94
+00:06:29,799 --> 00:06:31,279
+And so this is what I study.
+
+95
+00:06:31,279 --> 00:06:35,880
+I study it specifically how it relates to recovery from stroke.
+
+96
+00:06:35,880 --> 00:06:39,799
+So recently stroke dropped from being the third leading cause of death in the United
+
+97
+00:06:39,799 --> 00:06:42,959
+States to be the fourth leading cause of death.
+
+98
+00:06:42,959 --> 00:06:45,079
+Great news, right?
+
+99
+00:06:45,079 --> 00:06:49,399
+What actually turns out that the numbers of people having a stroke has not declined.
+
+100
+00:06:49,399 --> 00:06:53,480
+We're just better at keeping people alive after a severe stroke.
+
+101
+00:06:53,480 --> 00:06:58,519
+It turns out to be very difficult to help the brain recover from stroke.
+
+102
+00:06:58,519 --> 00:07:05,799
+And frankly we have failed to develop effective rehabilitation interventions.
+
+103
+00:07:05,799 --> 00:07:12,079
+The net result of this is that stroke is the leading cause of long-term disability in adults
+
+104
+00:07:12,079 --> 00:07:14,279
+in the world.
+
+105
+00:07:14,279 --> 00:07:19,279
+Individuals with stroke are younger and tending to live longer with that disability.
+
+106
+00:07:19,279 --> 00:07:22,959
+And research from my group actually shows that the health-related quality of life of
+
+107
+00:07:22,959 --> 00:07:26,559
+Canadians with stroke has declined.
+
+108
+00:07:26,559 --> 00:07:30,519
+So clearly we need to be better at helping people recover from stroke.
+
+109
+00:07:30,519 --> 00:07:36,980
+And this is an enormous societal problem and it's one that we're not solving.
+
+110
+00:07:36,980 --> 00:07:39,119
+So what can be done?
+
+111
+00:07:39,119 --> 00:07:41,359
+One thing is absolutely clear.
+
+112
+00:07:41,359 --> 00:07:46,839
+The best driver of neuroplastic change in your brain is your behavior.
+
+113
+00:07:46,839 --> 00:07:51,440
+The problem is that the dose of behavior, the dose of practice that's required to learn
+
+114
+00:07:51,440 --> 00:07:55,880
+new and relearn old motor skills, it's very large.
+
+115
+00:07:55,880 --> 00:08:00,799
+And how to effectively deliver these large doses of practice is a very difficult problem.
+
+116
+00:08:00,799 --> 00:08:03,359
+It's also a very expensive problem.
+
+117
+00:08:03,359 --> 00:08:07,239
+So the approach that my research has taken is to develop therapies that prime or that
+
+118
+00:08:07,239 --> 00:08:09,600
+prepare the brain to learn.
+
+119
+00:08:09,600 --> 00:08:14,760
+And these have included brain stimulation, exercise, and robotics.
+
+120
+00:08:14,760 --> 00:08:20,079
+But through my research, I've realized that a major limitation to the development of therapies
+
+121
+00:08:20,079 --> 00:08:25,959
+that speed recovery from stroke is that patterns of neuroplasticity are highly variable from
+
+122
+00:08:25,959 --> 00:08:28,679
+person to person.
+
+123
+00:08:28,679 --> 00:08:32,919
+Now as a researcher, variability used to drive me crazy.
+
+124
+00:08:32,919 --> 00:08:38,559
+It makes it very difficult to use statistics to test your data and your ideas.
+
+125
+00:08:38,960 --> 00:08:45,479
+Because of this, medical intervention studies are specifically designed to minimize variability.
+
+126
+00:08:45,479 --> 00:08:50,760
+But in my research, it's becoming really clear that the most important, the most informative
+
+127
+00:08:50,760 --> 00:08:56,719
+data that we collect is showing this variability.
+
+128
+00:08:56,719 --> 00:09:01,280
+So by studying the brain after stroke, we've learned a lot.
+
+129
+00:09:01,280 --> 00:09:06,760
+And I think these lessons are very valuable in other areas.
+
+130
+00:09:06,760 --> 00:09:12,239
+So the first lesson is that the primary driver of change in your brain is your behavior.
+
+131
+00:09:12,239 --> 00:09:16,320
+So there's no neuroplasticity drug you can take.
+
+132
+00:09:16,320 --> 00:09:19,559
+Nothing is more effective than practice at helping you learn.
+
+133
+00:09:19,559 --> 00:09:24,280
+And the bottom line is, you have to do the work.
+
+134
+00:09:24,280 --> 00:09:29,479
+And in fact, my research has shown that increased difficulty, increased struggle, if you will,
+
+135
+00:09:29,479 --> 00:09:35,039
+during practice, actually leads to both more learning and greater structural change in
+
+136
+00:09:35,039 --> 00:09:38,000
+the brain.
+
+137
+00:09:38,000 --> 00:09:42,799
+The problem here is, is that neuroplasticity can work both ways.
+
+138
+00:09:42,799 --> 00:09:44,320
+It can be positive.
+
+139
+00:09:44,320 --> 00:09:47,960
+You learn something new, and you've refined a motor skill.
+
+140
+00:09:47,960 --> 00:09:49,799
+It also can be negative, though.
+
+141
+00:09:49,799 --> 00:09:51,840
+You forgot something you once knew.
+
+142
+00:09:51,840 --> 00:09:54,200
+You become addicted to drugs.
+
+143
+00:09:54,200 --> 00:09:55,520
+Maybe you have chronic pain.
+
+144
+00:09:55,520 --> 00:10:01,479
+So your brain is tremendously plastic, and it's being shaped both structurally and functionally
+
+145
+00:10:01,479 --> 00:10:07,159
+by everything you do, but also by everything that you don't do.
+
+146
+00:10:07,159 --> 00:10:12,080
+The second lesson we've learned about the brain is that there is no one-size-fits-all
+
+147
+00:10:12,080 --> 00:10:14,520
+approach to learning.
+
+148
+00:10:14,520 --> 00:10:17,280
+So there's no recipe for learning.
+
+149
+00:10:17,280 --> 00:10:21,840
+Consider the popular belief that it takes 10,000 hours of practice to learn and to master
+
+150
+00:10:21,840 --> 00:10:23,760
+a new motor skill.
+
+151
+00:10:23,760 --> 00:10:27,200
+Now I can assure you, it is not quite that simple.
+
+152
+00:10:27,200 --> 00:10:31,200
+For some of us, it's going to take a lot more practice, and for others, it may take
+
+153
+00:10:31,200 --> 00:10:33,080
+far less.
+
+154
+00:10:33,080 --> 00:10:37,880
+So the shaping of our plastic brains, it's far too unique for there to be any single
+
+155
+00:10:37,880 --> 00:10:41,359
+intervention that's going to work for all of us.
+
+156
+00:10:41,359 --> 00:10:46,619
+And now this realization has forced us to consider something called personalized medicine.
+
+157
+00:10:46,619 --> 00:10:53,179
+So this is the idea that to optimize outcomes, each individual requires their own intervention.
+
+158
+00:10:53,179 --> 00:10:55,960
+And the idea actually comes from cancer treatments.
+
+159
+00:10:55,960 --> 00:11:01,479
+And here it turns out that genetics are very important in matching certain types of chemotherapy
+
+160
+00:11:01,479 --> 00:11:04,679
+with specific forms of cancer.
+
+161
+00:11:04,679 --> 00:11:08,500
+My research is showing that this also applies to recovery from stroke.
+
+162
+00:11:08,500 --> 00:11:12,739
+So there are certain characteristics of brain structure and function that we call biomarkers.
+
+163
+00:11:12,739 --> 00:11:18,880
+And these biomarkers are proving to be very helpful in helping us to match specific therapies
+
+164
+00:11:18,880 --> 00:11:21,320
+with individual patients.
+
+165
+00:11:21,320 --> 00:11:25,659
+And the data from my lab suggests it's a combination of biomarkers that best predicts
+
+166
+00:11:25,659 --> 00:11:29,640
+neuroplastic change and patterns of recovery after stroke.
+
+167
+00:11:29,640 --> 00:11:34,460
+And that's not surprising, given how complicated the human brain is.
+
+168
+00:11:34,460 --> 00:11:40,179
+But I also think we can consider this concept much more broadly.
+
+169
+00:11:40,179 --> 00:11:44,799
+Given the unique structure and function of each of our brains, what we've learned about
+
+170
+00:11:44,799 --> 00:11:51,159
+neuroplasticity after stroke applies to everyone.
+
+171
+00:11:52,000 --> 00:11:55,080
+The behaviors that you employ in your everyday life are important.
+
+172
+00:11:55,080 --> 00:11:57,760
+Each of them is changing your brain.
+
+173
+00:11:57,760 --> 00:12:03,440
+And I believe we have to consider not just personalized medicine, but personalized learning.
+
+174
+00:12:03,440 --> 00:12:09,479
+The uniqueness of your brain will affect you, both as a learner and also as a teacher.
+
+175
+00:12:09,479 --> 00:12:15,239
+And now this idea helps us to understand why some children can thrive in traditional education
+
+176
+00:12:15,239 --> 00:12:17,640
+settings and others don't.
+
+177
+00:12:17,640 --> 00:12:25,719
+Why some of us can learn languages easily and yet others can pick up any sport and excel.
+
+178
+00:12:25,719 --> 00:12:31,400
+So when you leave this room today, your brain will not be the same as when you entered this
+
+179
+00:12:31,400 --> 00:12:33,200
+morning.
+
+180
+00:12:33,200 --> 00:12:36,559
+And I think that's pretty amazing.
+
+181
+00:12:36,559 --> 00:12:41,479
+But each of you is going to have changed your brain differently.
+
+182
+00:12:41,479 --> 00:12:46,880
+Understanding these differences, these individual patterns, this variability and change, is
+
+183
+00:12:46,880 --> 00:12:50,159
+going to enable the next great advance in neuroscience.
+
+184
+00:12:50,159 --> 00:12:54,440
+It's going to allow us to develop new and more effective interventions and allow for
+
+185
+00:12:54,440 --> 00:13:01,039
+matches between learners and teachers and patients and interventions.
+
+186
+00:13:01,039 --> 00:13:04,080
+And this does not just apply to recovery from stroke.
+
+187
+00:13:04,080 --> 00:13:09,880
+It applies to each of us as a parent, as a teacher, as a manager, and also because you're
+
+188
+00:13:09,880 --> 00:13:13,919
+at TEDx today, a lifelong learner.
+
+189
+00:13:13,960 --> 00:13:17,359
+Study how and what you learn best.
+
+190
+00:13:17,359 --> 00:13:20,919
+Repeat those behaviors that are healthy for your brain.
+
+191
+00:13:20,919 --> 00:13:24,679
+And break those behaviors and habits that are not.
+
+192
+00:13:24,679 --> 00:13:26,520
+Practice.
+
+193
+00:13:26,520 --> 00:13:30,760
+Learning is about doing the work that your brain requires.
+
+194
+00:13:30,760 --> 00:13:34,760
+So the best strategies are going to vary between individuals.
+
+195
+00:13:34,760 --> 00:13:35,760
+You know what?
+
+196
+00:13:35,760 --> 00:13:37,679
+They're even going to vary within individuals.
+
+197
+00:13:37,679 --> 00:13:42,640
+So for you, learning music may come very easily, but learning to snowboard?
+
+198
+00:13:42,640 --> 00:13:43,640
+Much harder.
+
+199
+00:13:43,640 --> 00:13:50,159
+I hope that you leave today with a new appreciation of how magnificent your brain is.
+
+200
+00:13:50,159 --> 00:13:55,359
+You and your plastic brain are constantly being shaped by the world around you.
+
+201
+00:13:55,359 --> 00:14:00,080
+Understand that everything you do, everything you encounter, and everything you experience
+
+202
+00:14:00,080 --> 00:14:01,679
+is changing your brain.
+
+203
+00:14:01,679 --> 00:14:06,000
+And that can be for better, but it can also be for worse.
+
+204
+00:14:06,000 --> 00:14:10,840
+So when you leave today, go out and build the brain you want.
+
+205
+00:14:10,840 --> 00:14:11,599
+Thank you very much.
+
